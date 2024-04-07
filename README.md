@@ -31,8 +31,8 @@ data using `json-server`. If you don't have `json-server` installed already,
 install it first with:
 
 ```console
-$ npm install -g json-server
-```
+`$ npm install -g json-server
+````
 
 Then run the server:
 
